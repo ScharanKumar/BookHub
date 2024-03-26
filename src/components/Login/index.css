@@ -1,0 +1,64 @@
+.container0L{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.container1L{
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 65vw;
+}
+.imgL{
+    height: 100vh;
+    background-size: cover;
+}
+.img1L{
+    height: 75px;
+    background-size: cover;
+    margin-bottom: 35px;
+}
+.container11L{
+    background-color: white;
+    height: 100vh;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container2L{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 300px;
+    padding: 25px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.inpute{
+   height: 50px;
+   margin-bottom: 25px;
+   width: 250px;
+   border-radius: 5px;
+
+}
+.butL{
+    height: 50px;
+    width: 250px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    font-size: 25px;
+    border-width: 0px;
+}
+.error-message{
+    color: red;
+}

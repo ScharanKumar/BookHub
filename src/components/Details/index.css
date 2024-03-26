@@ -1,0 +1,45 @@
+.detailsCss{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 88vh;
+    width: 100vw;
+    background-color: lightgray;
+}
+.mm{
+    color: blue;
+}
+.detailrow{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 80vw;
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.detailr{
+    text-align: center;
+    width: 80vw;
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.detailI{
+    margin-left: 20px;
+    box-sizing: border-box;
+}
+.imgD{
+    height: 250px;
+    background-size: cover;
+}
+.headD{
+    font-size: 28px;
+    color:black;
+}
+.paraD{
+    font-size: 15px;
+    color: black;
+}

@@ -1,0 +1,34 @@
+.navbar1{
+    background-color: white;
+    height: 75px;
+    width: 100vw;
+    margin: 0px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+}
+.navbarI{
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    justify-content: space-between;
+    align-items: center;
+}
+.homeE{
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100vw;
+    box-sizing: border-box;
+    background-color: lightgray;
+}
+.xx{
+    box-sizing: border-box;
+    width: 100vw;
+}

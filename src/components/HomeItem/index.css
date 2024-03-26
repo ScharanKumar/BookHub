@@ -1,0 +1,30 @@
+.homeI{
+    width: 30vw;
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    padding: 20px;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-align: center;
+}
+.nn{
+    text-decoration: none;
+}
+.imgH{
+    height: 250px;
+    background-size: cover;
+}
+.headH{
+    color: black;
+    font-size: 28px;
+    font-family: roboto;
+    text-decoration: none;
+}
+.paraH{
+    font-size: 20px;
+    text-decoration: none;
+    font-family: roboto;
+    color: black;
+}
